@@ -25,8 +25,7 @@ Before running the package, ensure your system meets the following requirements:
    git sparse-checkout set Jagame
    git checkout
 
- 
-3. **Using Graphics Package**
+3. **Using the Graphics Package**
    
    To use the Jagame package in your Java project, ensure you include the following import statements at the top of your Java files:
    ```java
