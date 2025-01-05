@@ -6,7 +6,7 @@ Jagame is a beginner-friendly Java graphics library designed to make game develo
 
 ## Installation Requirements
 
-Before running the package, ensure your system meets the following requirements:
+Before running the library, ensure your system meets the following requirements:
 
 ### System Requirements
 - **Operating System:** Windows, macOS, or Linux
@@ -18,9 +18,9 @@ Before running the package, ensure your system meets the following requirements:
    
    Download and install Java 8 or higher from the [official Java website](https://www.oracle.com/java/technologies/downloads/)
    
-2. **Download Graphics Package**
+2. **Download the Graphics Library**
    
-   Open a terminal/command prompt and run the following command to download the graphics package:  
+   Open a terminal/command prompt and run the following command to download the graphics library:  
    ```bash
    git clone --no-checkout https://github.com/Anastasiya006/Jagame.git
    cd Jagame
@@ -28,9 +28,9 @@ Before running the package, ensure your system meets the following requirements:
    git sparse-checkout set Jagame
    git checkout
 
-3. **Using the Graphics Package**
+3. **Using the Graphics Library**
    
-   To use the Jagame package in your Java project, ensure you include the following import statements at the top of your Java files:
+   To use the Jagame library in your Java project, ensure you include the following import statements at the top of your Java files:
    ```java
    import jagame.*;           
    import jagame.graphics.*; 
