@@ -37,4 +37,4 @@ Before running the library, ensure your system meets the following requirements:
    import jagame.Mixer.*;    
    
 ## Credits
-- **Design and Developement**: [Anastasiya006](https://github.com/Anastasiya006), Claire, Vivian
+- **Design and Developement**: [Anastasiya006](https://github.com/Anastasiya006), Claire, [vivian-xiaowei](https://github.com/vivian-xiaowei)
