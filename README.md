@@ -1,6 +1,9 @@
 # Jagame
 https://github.com/user-attachments/assets/abf9182f-ca36-4298-bccc-01a04ef729b0
 
+## Overview
+Jagame is a beginner-friendly Java graphics library designed to make game development more accessible. By abstracting complex object-oriented programming (OOP) concepts into simple, intuitive wrappers, Jagame empowers developers to focus on creativity rather than technical intricacies.
+
 ## Installation Requirements
 
 Before running the package, ensure your system meets the following requirements:
